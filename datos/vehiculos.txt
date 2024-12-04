@@ -1,0 +1,6 @@
+1044-BPF Juan_Garcia C/Goya,123 2020/10/22 15:30 diesel
+0791-BMF Maria_Perez C/Quevedo,12 2020/10/22 20:25 gasolina
+1044-BPF Juan_Garcia C/Goya,123 2020/10/23 15:30 diesel
+7211-DLL Antonio_Gomez C/Paises_Bajos,12 2020/10/23 14:25 electrico
+6372-JVK Fatima_Rodriguez Avenida_Arcentales,45 2020/10/28 14:30 diesel
+1111-df Samuel Calle/22 2020/03/05 17:00 diesel

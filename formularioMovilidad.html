@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Formulario de movilidad</h1>
+    <form action="formularioTipado.php" method="get" enctype="multipart/form-data">
+        <label for="tipo">Seleccione el tipo de permiso del vehiculo que va a ingresar</label>
+        <input type="radio" name="tipo" value="taxis" checked>Taxis
+        <input type="radio" name="tipo" value="EMT">EMT
+        <input type="radio" name="tipo" value="servicios">Servicios
+        <input type="radio" name="tipo" value="residentesYHoteles">Residentes o Hoteles
+        <input type="radio" name="tipo" value="logistica">logistica <br><br>
+        <input type="submit" value="Siguiente">
+    </form>
+    <br>
+    <form action="movilidad.php" method="post" enctype="multipart/form-data">
+        <label for="infractores">Si quiero ver los infractores haga click aqui</label>
+        <input type="submit" value="Ver infractores">
+    </form>
+</body>
+</html>
