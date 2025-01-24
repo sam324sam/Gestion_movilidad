@@ -1,3 +1,5 @@
+![Estado](https://img.shields.io/badge/Estado-Acabado-brightgreen?style=plastic)
+
 # Formulario de Movilidad
 
 Este proyecto consiste en una aplicación web que permite gestionar permisos de vehículos para diferentes tipos de usuarios, así como identificar vehículos infractores. Incluye validaciones, almacenamiento en archivos de texto y generación dinámica de formularios basados en las selecciones del usuario.
