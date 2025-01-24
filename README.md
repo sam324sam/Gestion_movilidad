@@ -2,6 +2,10 @@
 
 Este proyecto consiste en una aplicación web que permite gestionar permisos de vehículos para diferentes tipos de usuarios, así como identificar vehículos infractores. Incluye validaciones, almacenamiento en archivos de texto y generación dinámica de formularios basados en las selecciones del usuario.
 
+<div align="center">
+  <img src="movilidad_PHP.png" alt="Imagen de la practica de movilidad" width="300">
+</div>
+
 ## Características
 
 - Gestión de permisos de vehículos según tipo:
